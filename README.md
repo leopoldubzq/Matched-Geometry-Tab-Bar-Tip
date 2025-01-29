@@ -20,7 +20,7 @@ Czy wiesz, że możesz znacząco usprawnić animację tabBara w SwiftUI, dodają
 Przykładowy kod znajdziesz w repozytorium! 🎯
 
 ## 💡 Przydatne linki
-- [Więcej o matchedGeometryEffect]([https://developer.apple.com/documentation/swiftui/matchedgeometryeffect](https://developer.apple.com/documentation/swiftui/view/matchedgeometryeffect(id:in:properties:anchor:issource:)))
+- [Więcej o matchedGeometryEffect](https://developer.apple.com/documentation/swiftui/view/matchedgeometryeffect(id:in:properties:anchor:issource:))
 
 🔹 Stworzone z pasją do lepszych animacji w SwiftUI! 🚀
 
